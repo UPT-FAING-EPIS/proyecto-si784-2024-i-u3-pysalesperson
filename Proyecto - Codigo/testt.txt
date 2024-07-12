@@ -1,0 +1,13 @@
+cliente
+agregar producto
+configuracion de la pagina nombre en si
+
+editar cliente
+eliminar cliente
+
+editar producto
+eliminar producto
+
+usuarios que es el agregar
+eliminar usuarios
+editar usuarios

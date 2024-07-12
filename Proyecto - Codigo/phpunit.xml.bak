@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="vendor/autoload.php"
+         colors="true"
+         verbose="true">
+    <testsuites>
+        <testsuite name="My Test Suite">
+            <directory>./tests</directory>
+        </testsuite>
+    </testsuites>
+
+    <coverage processUncoveredFiles="true">
+        <include>
+            <directory suffix=".php">./src</directory>
+        </include>
+        <exclude>
+            <file>./src/includes/header.php</file>
+            <file>./src/includes/session.php</file>
+            <file>./src/login_helper.php</file>
+        </exclude>
+        <report>
+            <html outputDirectory="build/coverage"/>
+        </report>
+    </coverage>
+
+    <php>
+        <server name="REQUEST_METHOD" value="GET"/>
+        <env name="DB_HOST" value="localhost"/>
+        <env name="DB_USER" value="root"/>
+        <env name="DB_PASS" value=""/>
+        <env name="DB_NAME" value="sis_venta_test"/>
+    </php>
+</phpunit>

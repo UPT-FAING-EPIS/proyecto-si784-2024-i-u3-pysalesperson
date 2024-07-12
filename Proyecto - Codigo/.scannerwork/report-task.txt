@@ -1,0 +1,6 @@
+projectKey=Proyecto_Calidad
+serverUrl=http://localhost:32768
+serverVersion=9.9.6.92038
+dashboardUrl=http://localhost:32768/dashboard?id=Proyecto_Calidad
+ceTaskId=AZCeuSXicIv7-3Gr3kRG
+ceTaskUrl=http://localhost:32768/api/ce/task?id=AZCeuSXicIv7-3Gr3kRG
