@@ -360,3 +360,12 @@ BDD (Desarrollo Guiado por el Comportamiento, por sus siglas en inglés) es una 
 ![image](https://github.com/UPT-FAING-EPIS/proyecto-si784-2024-i-u2-svm_apaza_paco_lupaca_escobar/assets/103132465/d420334b-cee7-4e10-9849-d8199efb0f12)
 
 ![image](https://github.com/UPT-FAING-EPIS/proyecto-si784-2024-i-u2-svm_apaza_paco_lupaca_escobar/assets/103132465/3476ea54-8243-4ae8-b422-aaf5f51ad5e6)
+
+### SonarCloud
+![image](https://github.com/user-attachments/assets/8d2e9798-3fe1-4597-820d-5f555544e689)
+
+### Reporte de cobertura
+![image](https://github.com/user-attachments/assets/2affc22a-a99d-4198-be41-4ade92a43eb3)
+![image](https://github.com/user-attachments/assets/620510e3-7c3f-4b73-8eed-30c2d76be87a)
+![image](https://github.com/user-attachments/assets/87e354e0-70b1-4114-8337-8cfaa22817de)
+
