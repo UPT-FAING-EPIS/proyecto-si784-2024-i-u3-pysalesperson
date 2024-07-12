@@ -8,6 +8,12 @@
 - Carlos Andrés Escobar Rejas (2021070016)
 - Aarón Pedro Paco Ramos (2018000654)
 
+##BDD en linea link :
+https://edwardapaza.github.io/bddreporte/index.html/
+##link de Repositorio Publico con de la automatizacion test github actions :
+https://github.com/edwardapaza/bddreporte
+##link de video Youtube:
+
 ## Descripción del Proyecto
 Este proyecto se centra en la implementación de un sistema de ventas, diseñado específicamente para grandes almacenes o compañías como Plaza Vea. El sistema permite la recepción y procesamiento de ventas a través de múltiples cajas de atención, facilitando un control eficiente de productos, generación de recibos, gestión de usuarios para mayoristas y administración de personal. La duración del proyecto es de 90 días, comenzando el 1 de julio y finalizando el 28 de septiembre. El objetivo principal es mejorar la eficiencia en la gestión de ventas y la administración de productos en grandes almacenes.
 
